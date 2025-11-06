@@ -162,9 +162,9 @@ My career objective is to gain real-world experience in security monitoring, inc
 
 ## 🔗 Profiles
 
-- **TryHackMe:** [Your Profile](https://tryhackme.com/p/yourusername)  
-- **Hack The Box:** [Your Profile](https://www.hackthebox.com/home/users/profile/yourusername)  
-- **LinkedIn:** [Your Profile](https://www.linkedin.com/in/yourusername)  
+- **TryHackMe:** [Your Profile](https://tryhackme.com/p/Agoodjie)  
+- **Hack The Box:** [Your Profile](https://www.hackthebox.com/home/users/profile/Agoodjie)  
+- **LinkedIn:** [Your Profile](https://www.linkedin.com/in/annettekajinga)  
 
 ---
 
