@@ -1,0 +1,7 @@
+sources:
+  - name: whois
+    type: lookup
+  - name: crtsh
+    type: certificates
+  - name: google
+    type: search

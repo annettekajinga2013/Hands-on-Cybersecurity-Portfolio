@@ -1,0 +1,8 @@
+{
+  "workflow": [
+    "discover",
+    "collect",
+    "enrich",
+    "report"
+  ]
+}

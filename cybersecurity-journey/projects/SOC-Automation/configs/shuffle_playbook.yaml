@@ -1,0 +1,7 @@
+playbook:
+  name: example_shuffle_playbook
+  steps:
+    - name: ingest_alert
+      action: create_case
+    - name: enrich_iocs
+      action: threat_intel_lookup

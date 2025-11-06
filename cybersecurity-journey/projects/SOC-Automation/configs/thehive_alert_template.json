@@ -1,0 +1,6 @@
+{
+  "title": "{{ alert.title }}",
+  "description": "{{ alert.description }}",
+  "severity": "{{ alert.severity }}",
+  "tags": ["wazuh","automated"]
+}

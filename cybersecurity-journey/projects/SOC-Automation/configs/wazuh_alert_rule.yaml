@@ -1,0 +1,7 @@
+rule:
+  id: 100001
+  level: 10
+  description: "Example Wazuh alert rule"
+  conditions:
+    - if: "srcip == '10.0.0.1'"
+      then: "alert"
