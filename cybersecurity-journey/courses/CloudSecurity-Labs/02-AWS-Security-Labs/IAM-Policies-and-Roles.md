@@ -1,3 +1,12 @@
-# IAM-Policies-and-Roles
+# IAM Policies & Roles (AWS)
 
-AWS IAM policies and roles best practices.
+## Objectives
+- Build least-privilege policies
+- Use IAM Access Analyzer
+
+## Tasks
+- Replace inline policies with managed policies
+- Remove root account keys, enable MFA
+
+## Learning points
+- IAM policy misconfigurations lead to privilege escalation
