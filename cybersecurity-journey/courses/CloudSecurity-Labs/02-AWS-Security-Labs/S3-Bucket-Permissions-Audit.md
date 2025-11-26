@@ -1,3 +1,15 @@
-# S3-Bucket-Permissions-Audit
+# S3 Bucket Permissions Audit
 
-Auditing S3 bucket permissions and common misconfigurations.
+## Objectives
+- Find public buckets and misconfigurations
+- Apply Block Public Access and correct ACLs
+
+## Commands
+aws s3api list-buckets
+aws s3api get-bucket-acl --bucket BUCKET_NAME
+
+markdown
+Copy code
+
+## Learning points
+- MFA Delete adds an additional safeguard for destructive operations
