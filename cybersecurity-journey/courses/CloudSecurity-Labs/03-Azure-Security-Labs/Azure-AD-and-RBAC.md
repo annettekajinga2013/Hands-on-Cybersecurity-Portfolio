@@ -1,3 +1,9 @@
-# Azure-AD-and-RBAC
+# Azure AD & RBAC
 
-Azure AD and role-based access control.
+## Objectives
+- Configure RBAC and Privileged Identity Management (PIM)
+
+## Tasks
+- Assign least privilege RBAC roles
+- Configure PIM for privileged roles (just-in-time)
+
